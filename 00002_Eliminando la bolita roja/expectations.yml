@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: program
+  inspection: HasBinding
+- binding: program
+  inspection: HasIf
