@@ -1,3 +1,5 @@
+Claro que no.
+
 La **condición** puede ser cualquier expresión _booleana_, cualquier cosa que represente una "pregunta" que se pueda responder con **sí** o **no**. En Gobstones el _sí_ se representa con el valor **True** (_Verdadero_ en castellano) y el _no_ con el valor **False** (_Falso_ en castellano).
 
 En los ejercicios anteriores te mostramos una de las funciones que trae Gobstones, `hayBolitas(color)`, que recibe un `color` y devuelve _True_ o _False_. 
