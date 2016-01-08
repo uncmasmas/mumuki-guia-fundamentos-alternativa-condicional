@@ -1,0 +1,21 @@
+check_head_position: true
+
+examples:
+ - title: 'Si hay celdas al Sur, se mueve'
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     head 0 1
+   final_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+ - title: 'Si no hay celdas al Sur, no hace nada'
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
