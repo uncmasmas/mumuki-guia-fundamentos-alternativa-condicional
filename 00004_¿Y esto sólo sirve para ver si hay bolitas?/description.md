@@ -6,4 +6,4 @@ En los ejercicios anteriores te mostramos una de las funciones que trae Gobstone
 
 Otra que trae, y que vas a tener que usar ahora, es `puedeMover(direccion)`. Como podrás imaginarte, sirve para saber si el cabezal puede moverse en una cierta dirección.
 
-> Escribí un programa que se mueva al Sur sólo _si_ es posible.
+> Usando `puedeMover(direccion)` escribí un programa que se mueva al Sur sólo _si_ es posible.
