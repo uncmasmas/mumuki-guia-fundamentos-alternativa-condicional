@@ -4,4 +4,4 @@ En primer lugar, tenemos la **condición**. Por ahora siempre fue `hayBolitas(co
 
 ¿Y qué es la **acción**? Básicamente, cualquier cosa que querramos hacer sobre el tablero. Al igual que en el `repeat`, podemos hacer cuantas cosas se nos ocurran, no necesariamente tiene que ser una sola.
 
-> Para ejercitar esto ultimo, te vamos a pedir que escribas un procedimiento `CompletarCelda()` que ponga una bolita roja, una azul y una verde _sólo si_ ya hay una negra.
+> Para ejercitar esto ultimo, te vamos a pedir que escribas un procedimiento `CompletarCelda()` que ponga una bolita roja, una azul y una verde _sólo si_ ya hay alguna negra.
