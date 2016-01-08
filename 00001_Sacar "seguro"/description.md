@@ -1,6 +1,24 @@
 Vamos a hacer un programa que saque una bolita de manera "segura": no tiene que producirse un _BOOM_, aún cuando no haya ninguna bolita en la celda actual.
 
-Por ser la primera vez que hacés esto, simplemente te vamos a pedir que copies el siguiente código y veas cómo resuelve el problema:
+Con lo que sabés hasta ahora, probablemente tu primera idea sea hacer algo como esto:
+
+```puppet
+program {
+  Sacar(Negro)
+}
+```
+
+Te invitamos a que antes de seguir leyendo pruebes de ejecutar ese programa y veas qué pasa, nosotros te esperamos...
+
+:hourglass_flowing_sand:
+
+:hourglass_flowing_sand:
+
+:hourglass_flowing:
+
+¿Te diste cuenta qué pasó? Funcionó para el primer tablero, porque tenía una bolita, pero hizo _BOOM_ para el segundo, porque estaba vacío, claro.
+
+Ahora probá esta segunda versión, que agrega un `if`. No te preocupes por la sintaxis, ya te lo vamos a explicar. :smile:
 
 ```puppet
 program {
@@ -9,5 +27,3 @@ program {
   } 
 }
 ```
-
-Para que nos creas, lo vamos a ejecutar primero en un tablero con una bolita negra y luego en una sin... ¡y no se va a romper!
