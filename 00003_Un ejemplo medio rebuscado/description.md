@@ -1,3 +1,7 @@
-Hablar sobre la **condición** y la **acción**.
+Vamos a ponerle nombre a las partes del `if`.
 
-Si hay una bolita verde, tiene que poner una azul.
+En primer lugar, tenemos la **condición** que por ahora siempre fue `hayBolitas(color)`, pero que podría ser cualquier otra cosa (ya veremos más ejemplos). Lo que tenés que entender es que eso es lo que **decide** si la **acción** se va a ejecutar o no, mirando en nuestro caso si hay bolitas de un determinado color.
+
+¿Y qué es la **acción**? Básicamente, cualquier cosa que querramos hacer sobre el tablero. Al igual que en el `repeat`, podemos hacer cuantas cosas se nos ocurran, no necesariamente tiene que ser una sola.
+
+> Para ejercitar esto ultimo, te vamos a pedir que escribas un procedimiento `CompletarCelda()` que ponga una bolita roja, una azul y una verde _sólo si_ ya hay una negra.

@@ -1,18 +1,18 @@
 check_head_position: true
 
 examples:
- - title: 'Cuando hay una bolita verde, pone una azul'
+ - title: 'Cuando hay una bolita negra, completa la celda'
    initial_board: |
      GBB/1.0
      size 2 2
-     cell 0 0 Verde 1
+     cell 0 0 Negro 1
      head 0 0
    final_board: |
      GBB/1.0
      size 2 2
-     cell 0 0 Verde 1 Azul 1
+     cell 0 0 Azul 1 Negro 1 Rojo 1 Verde 1
      head 0 0
- - title: 'Cuando no hay una bolita verde, no hace nada'
+ - title: 'Cuando no hay una bolita negra, no hace nada'
    initial_board: |
      GBB/1.0
      size 2 2
