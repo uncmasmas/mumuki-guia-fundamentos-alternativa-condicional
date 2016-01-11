@@ -11,7 +11,7 @@ examples:
      GBB/1.0
      size 2 2
      head 0 0
- - title: 'Cuando no hay ninguna bolita negra, no hace nada'
+ - title: 'Cuando no hay ninguna bolita negra, hace BOOM'
    initial_board: |
      GBB/1.0
      size 2 2
