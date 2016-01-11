@@ -1,3 +1,3 @@
-¡Bien! 
+¿Te diste cuenta qué pasó? 
 
-Hiciste tu primer programa que **decide** antes de ejecutar. Seguí con nosotros para entender de qué se trata esto...
+Funcionó para el primer tablero, porque tenía una bolita, pero hizo _BOOM_ para el segundo, porque estaba vacío, claro.

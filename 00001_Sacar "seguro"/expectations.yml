@@ -1,6 +1,0 @@
----
-expectations:
-- binding: program
-  inspection: HasIf
-- binding: program
-  inspection: HasUsage:hayBolitas
