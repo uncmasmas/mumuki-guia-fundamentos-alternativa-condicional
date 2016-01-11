@@ -8,4 +8,6 @@ program {
 }
 ```
 
-Te invitamos a que antes de seguir leyendo pruebes de ejecutar ese programa y veas qué pasa, nosotros te esperamos... :hourglass:
+Te invitamos a que antes de seguir leyendo pruebes de ejecutar ese programa y veas qué pasa, nosotros te esperamos... 
+
+:hourglass:
