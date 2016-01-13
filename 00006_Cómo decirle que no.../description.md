@@ -2,7 +2,7 @@ En todos los problemas que hicimos hasta ahora, siempre preguntamos si una ciert
 
 Algo que también se puede hacer es **negar** una condición, algo que en castellano puede sonar medio raro pero que en programación se hace un montón. Los ejemplos anteriores quedarían: ¿**no** hay alguna bolita roja? ¿**no** me puedo mover al Este? ¿**no** hay 3 bolitas azules?
 
-¿Y cómo se hace en Gobstones? Fácil, se agrega la palabra clave **not** antes de la expresión que ya teníamos.
+¿Y cómo se hace en Gobstones? Fácil, se agrega la palabra clave `not` antes de la expresión que ya teníamos.
 
 |Original|   |Negada|
 |:------:|:-:|:----:|
