@@ -1,0 +1,23 @@
+check_head_position: true
+
+subject: MoverComoSea
+
+examples:
+ - title: 'Si puede, se mueve al Oeste'
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     head 1 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+ - title: 'Si hay celdas al Oeste, se mueve al Norte'
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     head 0 1

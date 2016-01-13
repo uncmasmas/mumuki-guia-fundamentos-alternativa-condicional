@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: MoverComoSea
+  inspection: HasIf
+- binding: MoverComoSea
+  inspection: HasUsage:puedeMover
