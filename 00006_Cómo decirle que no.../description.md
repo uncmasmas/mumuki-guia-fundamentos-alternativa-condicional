@@ -6,8 +6,8 @@ Algo que también se puede hacer es **negar** una condición, algo que en castel
 
 |Original|   |Negada|
 |:------:|:-:|:----:|
-|`hayBolitas(Rojo)`|  <i class="fa fa-arrow-right"></i>|`not hayBolitas(Rojo)`|
-|`puedeMover(Este)`|  <i class="fa fa-arrow-right"></i>|`not puedeMover(Este)`|
+|`hayBolitas(Rojo)`|<i class="fa fa-arrow-right"></i>|`not hayBolitas(Rojo)`|
+|`puedeMover(Este)`|<i class="fa fa-arrow-right"></i>|`not puedeMover(Este)`|
 |`nroBolitas(Azul) == 3`|&nbsp;&nbsp; <i class="fa fa-arrow-right"></i> &nbsp;&nbsp;|`not nroBolitas(Azul) == 3`|
 
 &nbsp;
