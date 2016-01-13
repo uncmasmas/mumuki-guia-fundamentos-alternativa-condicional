@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: PrenderOApagar
+  inspection: HasIf
+- binding: PrenderOApagar
+  inspection: HasUsage:hayBolitas
