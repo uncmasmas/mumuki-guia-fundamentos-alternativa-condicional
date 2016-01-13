@@ -3,7 +3,7 @@ check_head_position: true
 subject: PrenderOApagarLuz
 
 examples:
- - title: 'Si está apagada, la prende'
+ - title: 'Si la celda está apagada, la prende'
    initial_board: |
      GBB/1.0
      size 3 3
@@ -30,7 +30,7 @@ examples:
      cell 2 1 Negro 1
      cell 2 2 Negro 1
      head 1 1
- - title: 'Si está prendida, la apaga'
+ - title: 'Si la celda está prendida, la apaga'
    initial_board: |
      GBB/1.0
      size 3 3
