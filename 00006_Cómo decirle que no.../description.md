@@ -5,7 +5,7 @@ Algo que también se puede hacer es **negar** una condición, algo que en castel
 ¿Y cómo se hace en Gobstones? Fácil, se agrega la palabra clave **not** antes de la expresión que ya teníamos.
 
 |Original|Negada|
-|--------|------|
+|:------:|:----:|
 |`hayBolitas(Rojo)`|`not hayBolitas(Rojo)`|
 |`puedeMover(Este)`|`not puedeMover(Este)`|
 |`nroBolitas(Azul) == 3`|`not nroBolitas(Azul) == 3`|
