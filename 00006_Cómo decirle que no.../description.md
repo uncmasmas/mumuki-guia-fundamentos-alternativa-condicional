@@ -4,10 +4,10 @@ Algo que también se puede hacer es **negar** una condición, algo que en castel
 
 ¿Y cómo se hace en Gobstones? Fácil, se agrega la palabra clave **not** antes de la expresión que ya teníamos.
 
-|Original|Negada|
-|:------:|:----:|
-|`hayBolitas(Rojo)`|`not hayBolitas(Rojo)`|
-|`puedeMover(Este)`|`not puedeMover(Este)`|
-|`nroBolitas(Azul) == 3`|`not nroBolitas(Azul) == 3`|
+|Original|   |Negada|
+|:------:|:-:|:----:|
+|`hayBolitas(Rojo)`|<i class="fa fa-arrow-right"></i>|`not hayBolitas(Rojo)`|
+|`puedeMover(Este)`|<i class="fa fa-arrow-right"></i>|`not puedeMover(Este)`|
+|`nroBolitas(Azul) == 3`|<i class="fa fa-arrow-right"></i>|`not nroBolitas(Azul) == 3`|
 
 > Escribí un procedimiento `AsegurarUnaBolitaVerde()` que se asegure que en la celda actual hay al menos una bolita verde. Esto es: si ya hay bolitas verdes no hay que hacer nada, pero si **no** hay tendría que poner una.
