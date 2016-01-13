@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: AsegurarUnaBolitaVerde
+  inspection: HasIf
+- binding: AsegurarUnaBolitaVerde
+  inspection: HasUsage:nroBolitas

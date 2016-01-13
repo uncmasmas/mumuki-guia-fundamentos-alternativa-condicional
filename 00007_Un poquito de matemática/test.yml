@@ -1,0 +1,25 @@
+check_head_position: true
+
+examples:
+ - title: 'Si hay menos de 5 bolitas negras, agrega una'
+   initial_board: |
+     GBB/1.0
+     size 2 3
+     cell 0 0 Negro 3
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 3
+     cell 0 0 Negro 4
+     head 0 0
+ - title: 'Si hay más de 5 bolitas negras, no hace nada'
+   initial_board: |
+     GBB/1.0
+     size 2 3
+     cell 0 0 Negro 6
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 3
+     cell 0 0 Negro 6
+     head 0 0
