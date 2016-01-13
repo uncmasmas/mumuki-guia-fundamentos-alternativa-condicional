@@ -3,7 +3,7 @@ check_head_position: true
 subject: MoverComoSea
 
 examples:
- - title: 'Si puede, se mueve al Oeste'
+ - title: 'Si hay celdas al Oeste, se mueve'
    initial_board: |
      GBB/1.0
      size 2 2
@@ -12,7 +12,7 @@ examples:
      GBB/1.0
      size 2 2
      head 0 0
- - title: 'Si hay celdas al Oeste, se mueve al Norte'
+ - title: 'Si no hay celdas al Oeste, se mueve al Norte'
    initial_board: |
      GBB/1.0
      size 2 2
