@@ -4,9 +4,11 @@ En lo cotidiano, se presentan muchas situaciones donde debemos elegir entre dos 
 * Si no tengo aceite para freir las milanesas uso un poco de manteca, _si no_ uso el aceite.
 * Si me puedo mover al Este lo hago, _si no_ me muevo al Norte.
 
-Podríamos utilizar la técnica de la negación para resolver problemas de este estilo, escribiendo dos `if`s: uno con la condición original (por ejemplo `puedeMover(Este)`) y otro con la condición negada (siguiendo el ejemplo, `not puedeMover(Este)`).
+Con lo que sabemos, podríamos utilizar la técnica de la negación para resolver problemas de este estilo. ¿Y cómo sería esto? Escribiendo dos `if`s: uno con la condición original y otro con la misma condición, pero negada. 
 
-En ese caso, quedaría algo así:
+Supongamos que queremos hacer un procedimiento que se mueva al Oeste, y en caso de que no pueda lo haga hacia el Norte. Deberíamos tener un primer `if` que chequee si es posible moverse al Oeste y lo haga, y luego un segundo `if` que chequee que **no** es posible moverse al Oeste y se mueva al Norte. 
+
+Veamos cómo quedaría esto con un poco de código:
 
 ```puppet
 procedure MoverComoSea() {
