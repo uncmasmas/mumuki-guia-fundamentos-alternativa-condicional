@@ -7,3 +7,5 @@ program {
   } 
 }
 ```
+
+Ojo que ahora te estamos pidiendo un **procedimiento**, no un **programa**. :wink:
