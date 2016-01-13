@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: program
+- binding: AsegurarUnaBolitaVerde
   inspection: HasIf
-- binding: program
-  inspection: HasUsage:puedeMover
+- binding: AsegurarUnaBolitaVerde
+  inspection: HasUsage:hayBolitas

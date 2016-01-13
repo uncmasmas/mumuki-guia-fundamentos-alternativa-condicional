@@ -1,21 +1,26 @@
 check_head_position: true
 
+subject: AsegurarUnaBolitaVerde
+
 examples:
- - title: 'Si hay celdas al Este, se mueve'
+ - title: 'Si hay bolitas verdes, no hace nada'
    initial_board: |
      GBB/1.0
      size 2 2
-     head 0 0
-   final_board: |
-     GBB/1.0
-     size 2 2
-     head 1 0
- - title: 'Si no hay celdas al Este, no hace nada'
-   initial_board: |
-     GBB/1.0
-     size 2 2
+     cell 0 0 Verde 1
      head 1 0
    final_board: |
      GBB/1.0
      size 2 2
+     cell 0 0 Verde 1
+     head 1 0
+ - title: 'Si no hay bolitas verdes, agrega una'
+   initial_board: |
+     GBB/1.0
+     size 2 2
+     head 1 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Verde 1
      head 1 0
