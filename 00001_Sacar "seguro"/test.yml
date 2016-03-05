@@ -16,4 +16,4 @@ examples:
      GBB/1.0
      size 2 2
      head 0 0
-   error: out_of_board
+   error: no_stones
