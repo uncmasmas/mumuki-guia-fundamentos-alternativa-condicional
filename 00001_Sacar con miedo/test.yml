@@ -3,7 +3,7 @@ check_head_position: true
 subject: SacarAzulConMiedo
 
 examples:
- - title: 'Cuando hay una bolita negra, la saca'
+ - title: 'Cuando hay una bolita azul, la saca'
    initial_board: |
      GBB/1.0
      size 2 2
@@ -13,7 +13,7 @@ examples:
      GBB/1.0
      size 2 2
      head 0 0
- - title: 'Cuando no hay ninguna bolita negra, hace BOOM'
+ - title: 'Cuando no hay ninguna bolita azul, hace BOOM'
    initial_board: |
      GBB/1.0
      size 2 2

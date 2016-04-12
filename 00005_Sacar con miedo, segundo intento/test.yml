@@ -1,5 +1,7 @@
 check_head_position: true
 
+subject: SacarAzulConMiedo
+
 examples:
  - title: 'Cuando hay una bolita azul, la saca'
    initial_board: |

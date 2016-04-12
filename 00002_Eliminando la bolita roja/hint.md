@@ -1,0 +1,1 @@
+Obviamente, `SacarAzulConMiedo` ya no es un buen nombre para el procedimiento, tenés que cambiarlo también.
