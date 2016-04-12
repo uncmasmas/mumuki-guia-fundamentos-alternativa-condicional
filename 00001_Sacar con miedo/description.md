@@ -8,6 +8,6 @@ procedure SacarAzulConMiedo() {
 }
 ```
 
-Te invitamos a que antes de seguir leyendo pruebes de ejecutar ese programa y veas qué pasa, nosotros te esperamos... 
+Te invitamos a que antes de seguir leyendo pruebes de ejecutar ese procedimiento y veas qué pasa, nosotros te esperamos... 
 
 :hourglass:
