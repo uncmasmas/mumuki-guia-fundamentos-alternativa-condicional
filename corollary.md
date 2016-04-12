@@ -3,6 +3,6 @@ Ahora conocés una de las herramientas más poderosas que tiene la computación:
 Algunos ejemplos de esto:
 
 * en Facebook, probablemente exista un `if` que determine si podés ver el perfil de alguien o no;
-* cuando te tomás un colectivo y pagás con la SUBE, la máquina decide si podés viajar o no dependiendo de si te alcanza el saldo.
+* cuando te tomás un colectivo y pagás con la SUBE (o tarjetas similares), la máquina decide si podés viajar o no dependiendo de si te alcanza el saldo.
 
 Te dejamos como ejercicio pensar (y por qué no intentar escribirlas) qué partes de los sistemas con los que interactuás todos los días parecerían estar resueltas con un `if`.
