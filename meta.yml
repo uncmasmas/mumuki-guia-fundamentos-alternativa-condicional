@@ -3,6 +3,18 @@ name: Alternativa Condicional
 locale: es
 type: learning
 beta: false
+teacher_info: |-
+  ### Objetivos principales
+
+  * Sintaxis nueva: `if`, `else`, expresión booleana entre los paréntesis.
+  * Continuar con los programas que dependen del tablero inicial.
+  * Transmitir la idea de que un programa puede comportarse de diferentes maneras dependiendo de la entrada (parámetros y tablero inicial).
+
+  ### Objetivos secundarios
+
+  * Funciones booleanas primitivas: `hayBolitas`, `puedeMover`.
+  * Algún comparador lógico.
+  * Negación: `not`.
 language: gobstones
 id_format: '%05d'
 order:
