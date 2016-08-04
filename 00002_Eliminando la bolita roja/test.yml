@@ -1,6 +1,6 @@
 check_head_position: true
 
-subject: SacarRojaConMiedo
+subject: SacarRojoConMiedo
 
 examples:
  - title: 'Cuando hay una bolita roja, la saca'
