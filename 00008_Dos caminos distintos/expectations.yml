@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: MoverComoSea
+- !ruby/hash:BSON::Document
+  binding: MoverComoSea
   inspection: HasIf
-- binding: MoverComoSea
+- !ruby/hash:BSON::Document
+  binding: MoverComoSea
   inspection: HasUsage:puedeMover

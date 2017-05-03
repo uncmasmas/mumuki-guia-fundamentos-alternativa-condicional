@@ -1,6 +1,6 @@
 Analicemos el procedimiento del ejercicio anterior:
 
-```puppet
+```gobstones
 procedure SacarAzulConMiedo() {
   if (hayBolitas(Azul)) {
     Sacar(Azul)

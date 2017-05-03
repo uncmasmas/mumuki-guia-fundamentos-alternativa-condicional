@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: PrenderOApagar
+- !ruby/hash:BSON::Document
+  binding: PrenderOApagar
   inspection: HasIf
-- binding: PrenderOApagar
+- !ruby/hash:BSON::Document
+  binding: PrenderOApagar
   inspection: HasUsage:hayBolitas

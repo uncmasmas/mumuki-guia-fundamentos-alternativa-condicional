@@ -2,7 +2,7 @@ Vamos a hacer un procedimiento que saque una bolita azul "con miedo": no tiene q
 
 Con lo que sabés hasta ahora, probablemente tu primera idea sea hacer algo como esto:
 
-```puppet
+```gobstones
 procedure SacarAzulConMiedo() {
   Sacar(Azul)
 }

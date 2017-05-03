@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: program
+- !ruby/hash:BSON::Document
+  binding: program
   inspection: HasIf
-- binding: program
+- !ruby/hash:BSON::Document
+  binding: program
   inspection: HasUsage:puedeMover

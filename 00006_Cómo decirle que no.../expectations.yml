@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: AsegurarUnaBolitaVerde
+- !ruby/hash:BSON::Document
+  binding: AsegurarUnaBolitaVerde
   inspection: HasIf
-- binding: AsegurarUnaBolitaVerde
+- !ruby/hash:BSON::Document
+  binding: AsegurarUnaBolitaVerde
   inspection: HasUsage:hayBolitas

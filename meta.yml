@@ -16,7 +16,7 @@ teacher_info: |-
   * Algún comparador lógico.
   * Negación: `not`.
 language: gobstones
-id_format: '%05d'
+id_format: "%05d"
 order:
 - 1
 - 5

@@ -8,7 +8,7 @@ Para estos casos, en Gobstones tenemos una nueva palabra clave que nos ayuda a c
 
 Supongamos que queremos hacer un procedimiento que se mueva al Oeste, y en caso de que no pueda lo haga hacia el Norte. Haciendo uso del `else`, podemos escribirlo de la siguiente manera:
 
-```puppet
+```gobstones
 procedure MoverComoSea() {
     if (puedeMover(Oeste)) {
         Mover(Oeste)
