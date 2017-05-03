@@ -1,8 +1,6 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: SacarRojoConMiedo
+- binding: SacarRojoConMiedo
   inspection: HasIf
-- !ruby/hash:BSON::Document
-  binding: SacarRojoConMiedo
+- binding: SacarRojoConMiedo
   inspection: HasUsage:hayBolitas

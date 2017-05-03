@@ -1,8 +1,6 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: program
+- binding: program
   inspection: HasIf
-- !ruby/hash:BSON::Document
-  binding: program
+- binding: program
   inspection: HasUsage:nroBolitas
