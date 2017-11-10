@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: MoverComoSea
+- binding: program
   inspection: HasIf
-- binding: MoverComoSea
+- binding: program
   inspection: HasUsage:puedeMover

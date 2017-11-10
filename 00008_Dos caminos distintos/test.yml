@@ -1,7 +1,5 @@
 check_head_position: true
 
-subject: MoverComoSea
-
 examples:
  - title: 'Si hay celdas al Oeste, se mueve'
    initial_board: |
