@@ -1,7 +1,7 @@
 Analicemos el procedimiento del ejercicio anterior:
 
 ```gobstones
-procedure SacarAzulConMiedo() {
+program {
   if (hayBolitas(Azul)) {
     Sacar(Azul)
   } 

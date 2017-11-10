@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: SacarRojoConMiedo
+- binding: program
   inspection: HasIf
-- binding: SacarRojoConMiedo
+- binding: program
   inspection: HasUsage:hayBolitas
