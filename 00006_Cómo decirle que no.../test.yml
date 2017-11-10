@@ -1,6 +1,5 @@
 check_head_position: true
 
-subject: AsegurarUnaBolitaVerde
 
 examples:
  - title: 'Si hay bolitas verdes, no hace nada'
