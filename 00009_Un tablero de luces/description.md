@@ -1,3 +1,3 @@
 Como ejemplo final, imaginemos que nuestro tablero está lleno de luces que se pueden prender y apagar. Vamos a decir que las celdas con una bolita verde están prendidas y las celdas con una bolita negra están apagadas.
 
-Asumiendo que estás trabajando en un tablero donde todas las celdas están prendidas o apagadas (o sea, tienen o una bolita verde o una negra), escribí un procedimiento `PrenderOApagarLuz()` que se encargue de prender o apagar la luz en la celda actual, según corresponda.
+Asumiendo que estás trabajando en un tablero donde todas las celdas están prendidas o apagadas (o sea, tienen o una bolita verde o una negra), escribí un programa que se encargue de prender o apagar la luz en la celda actual, según corresponda.

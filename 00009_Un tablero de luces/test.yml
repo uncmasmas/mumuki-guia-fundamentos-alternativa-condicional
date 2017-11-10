@@ -1,7 +1,5 @@
 check_head_position: true
 
-subject: PrenderOApagarLuz
-
 examples:
  - title: 'Si la celda está apagada, la prende'
    initial_board: |
